@@ -1,4 +1,6 @@
 # chekame
+Live demo
+https://reading-comp.herokuapp.com/
 
 ## Build Setup
 
